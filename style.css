@@ -1,0 +1,39 @@
+
+.navbar {
+    background-color: rgb(117, 202, 241);
+}
+
+.quemsomos{
+    background-color: rgb(79, 79, 241);
+    color: rgb(238, 155, 48);
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+body {
+    background-image: url("C:/Users/flavioPC/Desktop/SiteBootstrap//img/background.jpeg");
+    background-attachment: fixed;
+    background-position: 6cm;
+    margin-left: 40px;
+    
+}
+
+h2{
+    color: rgb(41, 5, 10);
+}
+
+.parceiros{
+    background-color: rgb(27, 65, 65);
+}
+
+.servicos{
+    background-color: darkgoldenrod;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
